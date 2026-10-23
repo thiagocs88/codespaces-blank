@@ -1,0 +1,12 @@
+data,produto,categoria,quantidade,valor
+01/09/2026,Café Expresso,Bebidas,10,80
+01/09/2026,Cappuccino,Bebidas,8,96
+01/09/2026,Pão de Queijo,Alimentos,15,75
+02/09/2026,Café Expresso,Bebidas,12,96
+02/09/2026,Bolo de Chocolate,Alimentos,6,72
+03/09/2026,Cappuccino,Bebidas,10,120
+03/09/2026,Pão de Queijo,Alimentos,20,100
+04/09/2026,Café Expresso,Bebidas,14,112
+04/09/2026,Bolo de Chocolate,Alimentos,8,96
+05/09/2026,Cappuccino,Bebidas,12,144
+05/09/2026,Pão de Queijo,Alimentos,18,90
